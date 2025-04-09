@@ -1,0 +1,11 @@
+{
+  "name": "attendance-analysis",
+  "version": "1.0.0",
+  "main": "dist/app.js",
+  "scripts": {
+    "start": "tsc && node dist/app.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
